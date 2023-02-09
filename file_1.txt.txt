@@ -3,3 +3,5 @@ created new branch first commit in the new branch
 made changes in main branch from remote repo
 
 second commit from feature/smart branch
+
+new change in the main branch from remote 
